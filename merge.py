@@ -14,7 +14,7 @@ def main():
     """
     Drive the program.
     """
-    print(factorial(100))
+    print(factorial(5))
 
 
 if __name__ == "__main__":
