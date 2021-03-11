@@ -8,6 +8,11 @@ def stringlen(string):
 
 
 
+
+
+# This is a terrible comment
+
+
 def factorial(upper_bound):
     if upper_bound == 0:
         return 1
