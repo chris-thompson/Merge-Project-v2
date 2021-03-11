@@ -2,6 +2,11 @@
 Comment.
 """
 
+
+def digitsininteger(integer):
+    return len(str(integer))
+
+
 def stringlen(string):
     return len(string)
 
